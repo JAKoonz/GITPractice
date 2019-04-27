@@ -1,4 +1,4 @@
 # GITPractice
-Women Who Code
-Workshop
+Women Who Code <br />
+Workshop <br />
 Sept 2016
